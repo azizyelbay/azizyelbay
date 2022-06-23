@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Huawei**
 
-- 🌱 I’m currently learning **Java, Microservices, Spring**
+- 🌱 I’m currently learning **Microservices, Spring**
 
 - 📫 How to reach me **azizyelbay@hotmail.com**
 
